@@ -7,14 +7,14 @@
 body {
     background-color: #d9dcd6;
 }
-
+/* sets the font for everything inside the header class */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-
+/* displays and seys the font size for everything in the header class and is also in the h1 */
 .header h1 {
     display: inline-block;
     font-size: 48px;
@@ -23,7 +23,7 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
-
+/* Sets the position and changes the font style and size of everything in the header class that is also a div */
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* puts the gaint picture towards the top of the screen */
 .hero {
     height: 800px;
     width: 100%;
