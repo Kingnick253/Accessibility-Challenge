@@ -6,3 +6,5 @@ In this weeks project we were giving the task of editing/ cleaning up this compa
 ## File types
 -Html
 -CSS
+## Screenshot
+![ScreenShot](./assets/images/kingnick253.github.io_Accessibility-Challenge_.png)
